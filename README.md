@@ -85,6 +85,11 @@
 4. [Ace the Java Coding Interview](https://www.educative.io/path/ace-java-coding-interview) - Best Reading Material and Easly Understandable | [PDF Resources](https://github.com/techtanic/educative.io_courses)
 5. [Intro to Data Structures and Algorithms by Google](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 
+## GFG Resources
+1. [Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
+2. [SDE SHEET – A Complete Guide for SDE Preparation](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)
+3. [Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/) & [Algorithms Design Techniques](https://www.geeksforgeeks.org/algorithms-design-techniques/)
+
 ## Bonus
 [Roadmap To Learn Data Structures and Algorithms | How To Start? | Best Resources](https://youtu.be/WjYdkHzcGhc)
 [Complete DSA Journey | 6 Months Roadmap to complete DSA from level 0](https://youtu.be/hORRaq7CNw0)
