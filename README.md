@@ -90,6 +90,12 @@
 2. [SDE SHEET – A Complete Guide for SDE Preparation](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)
 3. [Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/) & [Algorithms Design Techniques](https://www.geeksforgeeks.org/algorithms-design-techniques/)
 
+## Competitive Programming Resources
+- [Microsoft VS Code](https://code.visualstudio.com/) for typing and executing these files.
+- [C/C++ for Visual Studio Code](https://github.com/Microsoft/vscode-cpptools) and [Code Runner](https://github.com/formulahendry/vscode-code-runner) for faster execution in terminal.
+- [Competitive Programming Helper](https://github.com/agrawal-d/cph) For running test cases locally
+- [LeetCode](https://github.com/LeetCode-OpenSource/vscode-leetcode) For solving LeetCode problems in VS Code.
+
 ## Bonus
 [Roadmap To Learn Data Structures and Algorithms | How To Start? | Best Resources](https://youtu.be/WjYdkHzcGhc)
 [Complete DSA Journey | 6 Months Roadmap to complete DSA from level 0](https://youtu.be/hORRaq7CNw0)
