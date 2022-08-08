@@ -95,6 +95,7 @@
 - [C/C++ for Visual Studio Code](https://github.com/Microsoft/vscode-cpptools) and [Code Runner](https://github.com/formulahendry/vscode-code-runner) for faster execution in terminal.
 - [Competitive Programming Helper](https://github.com/agrawal-d/cph) For running test cases locally
 - [LeetCode](https://github.com/LeetCode-OpenSource/vscode-leetcode) For solving LeetCode problems in VS Code.
+- [Get Started on CodeChef](https://github.com/codechef-org/codechef-resources/blob/master/getting-started.md)
 
 ## Bonus
 [Roadmap To Learn Data Structures and Algorithms | How To Start? | Best Resources](https://youtu.be/WjYdkHzcGhc)
