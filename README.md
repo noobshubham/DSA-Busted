@@ -102,8 +102,11 @@
 
 ## Bonus
 [Roadmap To Learn Data Structures and Algorithms | How To Start? | Best Resources](https://youtu.be/WjYdkHzcGhc)
+
 [Complete DSA Journey | 6 Months Roadmap to complete DSA from level 0](https://youtu.be/hORRaq7CNw0)
+
 [Complete Interview Preparation](https://practice.geeksforgeeks.org/courses/complete-interview-preparation) by GeeksforGeeks
+
 For Recursion and DP always use Pepcoding - [Level 1](https://youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs) & [Level 2](https://youtube.com/playlist?list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0)
 [Striver's Graph Series](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw) is good for graph Data Structure
 
