@@ -22,6 +22,7 @@
 - Data Structure Implementation
 - Recursion & DP - Basics
 - C & C++
+- [Virtual Notes](https://github.com/sakshamgarg6500/Data-Structure-using-C-Notes)
 
 #### [Jenny's Lectures](https://youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
 - Basics (Theory)
@@ -84,6 +85,7 @@
 3. [Learn DS & Algorithms](https://www.programiz.com/dsa) - Easy Explanation
 4. [Ace the Java Coding Interview](https://www.educative.io/path/ace-java-coding-interview) - Best Reading Material and Easly Understandable | [PDF Resources](https://github.com/techtanic/educative.io_courses)
 5. [Intro to Data Structures and Algorithms by Google](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+6. [DSA Roadmap](https://github.com/CodeChefVIT/resources/blob/master/CC_and_DSA/DSA.md) - Great Resources!
 
 ## GFG Resources
 1. [Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
@@ -96,6 +98,7 @@
 - [Competitive Programming Helper](https://github.com/agrawal-d/cph) For running test cases locally
 - [LeetCode](https://github.com/LeetCode-OpenSource/vscode-leetcode) For solving LeetCode problems in VS Code.
 - [Get Started on CodeChef](https://github.com/codechef-org/codechef-resources/blob/master/getting-started.md)
+- [Beginners Guide for Competitive Coding](https://github.com/CodeChefVIT/resources/blob/master/CC_and_DSA/COMPETITIVE-CODING.md)
 
 ## Bonus
 [Roadmap To Learn Data Structures and Algorithms | How To Start? | Best Resources](https://youtu.be/WjYdkHzcGhc)
