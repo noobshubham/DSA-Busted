@@ -15,7 +15,8 @@
 
 ## Courses to learn DSA
 
-### _Basics for Academic Perspective!_
+<details>
+    <summary><h3><i>Basics for Academic Perspective!</i></h3></summary>
 
 #### [Abdul Bari](https://www.udemy.com/course/datastructurescncpp/)
 - Basics (Theory)
@@ -52,10 +53,11 @@
 - Good Explanation
 - Basics (Theory)
 - C++
+</details>
 
-
-### _Basics + Advance for Problem Solving & CP!_
-
+<details>
+    <summary><h3><i>Basics + Advance for Problem Solving & CP!</i></h3></summary>
+  
 #### [OnGoing C++ Placement DSA Course](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) by Babbar
 - Hindi Language
 - Not paid nor free course like this
@@ -77,6 +79,7 @@
 #### [Competitive Programming/DSA Course | Hindi](https://youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) by Luv
 - Concept + Problem Solving
 - C++
+</details>
 
 
 ## Websites to learn DSA
@@ -87,10 +90,12 @@
 5. [Intro to Data Structures and Algorithms by Google](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 6. [DSA Roadmap](https://github.com/CodeChefVIT/resources/blob/master/CC_and_DSA/DSA.md) - Great Resources!
 
+
 ## GFG Resources
 1. [Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
 2. [SDE SHEET – A Complete Guide for SDE Preparation](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)
 3. [Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/) & [Algorithms Design Techniques](https://www.geeksforgeeks.org/algorithms-design-techniques/)
+
 
 ## Competitive Programming Resources
 - [Microsoft VS Code](https://code.visualstudio.com/) for typing and executing these files.
@@ -99,6 +104,7 @@
 - [LeetCode](https://github.com/LeetCode-OpenSource/vscode-leetcode) For solving LeetCode problems in VS Code.
 - [Get Started on CodeChef](https://github.com/codechef-org/codechef-resources/blob/master/getting-started.md)
 - [Beginners Guide for Competitive Coding](https://github.com/CodeChefVIT/resources/blob/master/CC_and_DSA/COMPETITIVE-CODING.md)
+
 
 ## Bonus
 [Roadmap To Learn Data Structures and Algorithms | How To Start? | Best Resources](https://youtu.be/WjYdkHzcGhc)
@@ -109,6 +115,7 @@
 
 For Recursion and DP always use Pepcoding - [Level 1](https://youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs) & [Level 2](https://youtube.com/playlist?list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0)
 [Striver's Graph Series](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw) is good for graph Data Structure
+
 
 ## Credit
 **Data Structures & Algorithm Resources Sheet by [shubham](https://github.com/noobshubham) using [Dillinger](https://dillinger.io/)**
