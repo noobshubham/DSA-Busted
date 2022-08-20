@@ -90,6 +90,8 @@
 4. [Ace the Java Coding Interview](https://www.educative.io/path/ace-java-coding-interview) - Best Reading Material and Easly Understandable | [PDF Resources](https://github.com/techtanic/educative.io_courses)
 5. [Intro to Data Structures and Algorithms by Google](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 6. [DSA Roadmap](https://github.com/CodeChefVIT/resources/blob/master/CC_and_DSA/DSA.md) - Great Resources!
+7. [Learn Data Structures and Algorithms by CodeChef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
+8. [Data Structure and Algorithms by tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 
 ## GFG Resources
