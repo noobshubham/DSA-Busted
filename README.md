@@ -59,7 +59,7 @@
 <details>
     <summary><h3><i>Basics + Advance for Problem Solving & CP!</i></h3></summary>
   
-#### [OnGoing C++ Placement DSA Course](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) by Babbar
+#### [Complete C++ Placement DSA Course](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) by Babbar
 - Hindi Language
 - Not paid nor free course like this
 - Not for beginners
