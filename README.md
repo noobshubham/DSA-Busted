@@ -92,6 +92,7 @@
 6. [DSA Roadmap](https://github.com/CodeChefVIT/resources/blob/master/CC_and_DSA/DSA.md) - Great Resources!
 7. [Learn Data Structures and Algorithms by CodeChef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
 8. [Data Structure and Algorithms by tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+9. [List of Visual Tools to help with Data Structures and Algorithms](https://dev.to/prnvbirajdar/list-of-visual-tools-to-help-with-data-structures-and-algorithms-4nb2)
 
 
 ## GFG Resources
