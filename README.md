@@ -13,6 +13,10 @@
 - Hand Picked Question
 - 4 month before placement or Internship
 
+#### [DSA in 90 Days](https://whimsical.com/dsa-in-90-days-EmPkf5utoFGRMnRqJjM6YV) 
+- by [Nishant](https://www.youtube.com/c/NishantChahar11)
+- Roadmap via Mindmap Graph
+
 
 ## Courses to learn DSA
 
@@ -119,6 +123,8 @@
 
 For Recursion and DP always use Pepcoding - [Level 1](https://youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs) & [Level 2](https://youtube.com/playlist?list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0)
 [Striver's Graph Series](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw) is good for graph Data Structure
+
+[Learning How To Code](https://github.com/Amishakumari544/Web-Dev-Helper#man_technologistlearning-how-to-code)
 
 
 ## Credit
