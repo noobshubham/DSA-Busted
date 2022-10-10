@@ -18,7 +18,7 @@
 - Roadmap via Mindmap Graph
 
 
-## Courses to learn DSA
+## Courses to Learn DSA
 
 <details>
     <summary><h3><i>Basics for Academic Perspective!</i></h3></summary>
@@ -112,6 +112,17 @@
 - [LeetCode](https://github.com/LeetCode-OpenSource/vscode-leetcode) For solving LeetCode problems in VS Code.
 - [Get Started on CodeChef](https://github.com/codechef-org/codechef-resources/blob/master/getting-started.md)
 - [Beginners Guide for Competitive Coding](https://github.com/CodeChefVIT/resources/blob/master/CC_and_DSA/COMPETITIVE-CODING.md)
+
+
+<details>
+    <summary><h3>Algorithm Visualizer</h3></summary>
+   
+- [VisuAlgo](https://visualgo.net/en)
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) from [Sorting Visualizer](https://www.crio.do/projects/javascript-sorting-visualiser/)
+- [SORT VISUALIZER](https://www.sortvisualizer.com/)
+- [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+- [Algorithm Visualization GH Topic](https://github.com/topics/algorithm-visualization)
+</details>
 
 
 ## Bonus
